@@ -1,0 +1,5 @@
+tensorflow==2.15 
+numpy==1.23.5 
+ml_dtypes==0.2.0
+streamlit
+matplotlib
